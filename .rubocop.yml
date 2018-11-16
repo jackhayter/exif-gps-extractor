@@ -1,0 +1,26 @@
+AllCops:
+  TargetRubyVersion: 2.5.3
+
+# Metrics/LineLength:
+#   Max: 120
+
+Layout/EmptyLinesAroundClassBody:
+  EnforcedStyle: empty_lines
+
+Layout/EmptyLinesAroundMethodBody:
+  Enabled: false
+
+Layout/EmptyLinesAroundBlockBody:
+  Enabled: false
+
+Layout/EmptyLineAfterGuardClause:
+  Enabled: false
+
+Layout/SpaceBeforeBlockBraces:
+  Enabled: false
+
+Layout/AlignHash:
+  Enabled: false
+
+Style/RedundantReturn:
+  Enabled: false
